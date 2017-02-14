@@ -1,0 +1,4 @@
+#Andre_Gema_Syahputra
+
+The task given in week 1 familiarizes us with the usage of github and the
+badak account terminal.
