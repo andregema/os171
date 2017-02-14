@@ -1,0 +1,6 @@
+#Andre_Gema_Syahputra
+Week 00 mempersiapkan pelajar dalam menjalani mata kuliah OS.
+Di kelas dilakukan pengenalan mengenai mata kuliah ini, task yang diberikan
+menuntun mahasiswa dalam membuat dan melakukan setup 
+account yang berhubungan dengan mata kuliah ini, 
+seperti account github dan google.
