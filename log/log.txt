@@ -33,4 +33,18 @@ w02-170222-18-PS-Mengerjakan tugas week02
 w02-170222-19-PS-Mengerjakan tugas week02
 w02-170222-19-PS-Mengerjakan tugas week02
 w02-170222-20-PS-Mengerjakan tugas week02
-
+w02-170223-18-LR-C Tutorial, From:
+https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq
+w02-170223-19-LR-C Tutorial, From:
+https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq
+w02-170223-19-LR-C Tutorial, From:
+https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq
+w02-170223-20-LR-C Tutorial, From:
+https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq
+w02-170224-19-DS-Diskusi mengenai C
+w02-170224-19-DS-Diskusi mengenai C
+w02-170224-20-DS-Diskusi mengenai Enkripsi dan Dekripsi
+w02-170224-20-LR-Introduction to Cryptography, From:
+https://www.youtube.com/watch?v=2aHkqB2-46k
+w02-170224-21-LR-Introduction to Cryptography, From:
+https://www.youtube.com/watch?v=2aHkqB2-46k
