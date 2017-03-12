@@ -70,3 +70,26 @@ w03-170304-19-PS-Task week03
 w03-170304-19-PS-Task week03
 w03-170304-20-PS-Task week03
 w03-170304-20-PS-Task week03
+w04-170309-10-LR-Demo week04, From: Lecturer
+w04-170309-10-LR-Demo week04, From: Lecturer
+w04-170309-11-LR-Demo week04, From: Lecturer
+w04-170309-11-LR-Demo week04, From: Lecturer
+w04-170310-15-LR-Global & Local Variables, From:
+https://www.codingunit.com/c-tutorial-functions-and-global-local-variables
+w04-170310-16-LR-C Pointers, From:
+http://boredzo.org/pointers/
+w04-170310-16-LR-C Pointers, From:
+http://boredzo.org/pointers/
+w04-170310-17-PS-Task week04
+w04-170310-18-PS-Task week04
+w04-170310-18-PS-Task week04
+w04-170310-19-PS-Task week04
+w04-170310-19-PS-Task week04
+w04-170310-20-PS-Task week04
+w04-170310-20-PS-Task week04
+w04-170310-21-LR-Linux System Calls, From:
+http://www.techytalk.info/linux-system-programming-open-file-read-file-and-write-file/
+w04-170310-21-DS-Diskusi tentang System Call
+w04-170310-22-PS-Task week04
+w04-170310-22-PS-Task week04
+w04-170310-23-PS-Task week04
