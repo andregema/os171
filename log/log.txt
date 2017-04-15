@@ -93,3 +93,27 @@ w04-170310-21-DS-Diskusi tentang System Call
 w04-170310-22-PS-Task week04
 w04-170310-22-PS-Task week04
 w04-170310-23-PS-Task week04
+w06-170410-18-LR-Fork introduction, From:
+https://www.youtube.com/watch?v=9seb8hddeK4
+w06-170410-19-LR-Understanding Fork, From:
+https://www.youtube.com/watch?v=PwxTbksJ2fo
+w06-170410-19-LR-Fork Tutorial, From:
+https://www.youtube.com/watch?v=HDMkuDVuDyc
+w06-170410-20-PS-PR mengenai Fork
+w06-170410-20-PS-PR mengenai Fork
+w06-170411-10-LR-Fork, From: Lecturer
+w06-170411-10-LR-Fork, From: Lecturer
+w06-170411-11-LR-Fork, From: Lecturer
+w06-170411-11-LR-Fork, From: Lecturer
+w06-170411-12-DS-Diskusi fork
+w06-170413-10-LR-Latihan Fork, From: Lecturer
+w06-170413-10-LR-Latihan Fork, From: Lecturer
+w06-170413-11-LR-Latihan Fork, From: Lecturer
+w06-170413-11-LR-Latihan Fork, From: Lecturer
+w06-170414-18-PS-Task week06
+w06-170414-18-PS-Task week06
+w06-170414-19-PS-Task week06
+w06-170414-19-PS-Task week06
+w06-170414-20-PS-Task week06
+w06-170414-20-PS-Task week06
+w06-170414-21-PS-Task week06
