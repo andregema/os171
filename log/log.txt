@@ -106,10 +106,10 @@ w06-170411-10-LR-Fork, From: Lecturer
 w06-170411-11-LR-Fork, From: Lecturer
 w06-170411-11-LR-Fork, From: Lecturer
 w06-170411-12-DS-Diskusi fork
-w06-170413-10-LR-Latihan Fork, From: Lecturer
-w06-170413-10-LR-Latihan Fork, From: Lecturer
-w06-170413-11-LR-Latihan Fork, From: Lecturer
-w06-170413-11-LR-Latihan Fork, From: Lecturer
+w06-170413-10-LR-Process Sync, From: Lecturer
+w06-170413-10-LR-Process Sync, From: Lecturer
+w06-170413-11-LR-Process Sync, From: Lecturer
+w06-170413-11-LR-Process Sync, From: Lecturer
 w06-170414-18-PS-Task week06
 w06-170414-18-PS-Task week06
 w06-170414-19-PS-Task week06
