@@ -133,3 +133,21 @@ w07-170422-12-PS-Task week07
 w07-170422-12-PS-Task week07
 w07-170422-13-PS-Task week07
 w07-170422-13-PS-Task week07
+w08-170425-10-LR-Scheduling, From: Lecturer
+w08-170425-10-LR-Scheduling, From: Lecturer
+w08-170425-11-LR-Scheduling, From: Lecturer
+w08-170425-11-LR-Scheduling, From: Lecturer
+w08-170428-12-PS-Task week08
+w08-170428-12-PS-Task week08
+w08-170428-13-PS-Task week08
+w08-170428-13-PS-Task week08
+w08-170428-14-PS-Task week08
+w08-170428-20-PS-Task week08
+w08-170428-21-PS-Task week08
+w08-170429-18-LR-Scheduling, From: OSC Slides
+w08-170429-18-LR-Sockets, From: OSC Slides
+w08-170429-19-DS-Diskusi Socket
+w08-170429-19-DS-Diskusi Socket
+w08-170429-20-PS-Task week08
+w08-170429-20-PS-Task week08
+w08-170429-21-PS-Task week08
