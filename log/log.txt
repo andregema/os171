@@ -117,3 +117,19 @@ w06-170414-19-PS-Task week06
 w06-170414-20-PS-Task week06
 w06-170414-20-PS-Task week06
 w06-170414-21-PS-Task week06
+w07-170418-10-LR-About: Synchronization, From: Lecturer
+w07-170418-10-LR-About: Synchronization, From: Lecturer
+w07-170418-11-LR-About: Synchronization, From: Lecturer
+w07-170418-21-LR-About: Synchronization, From: Lecturer
+w07-170418-20-LR-About: Synchronization, From: OSC Slides
+w07-170419-20-LR-About: Synchronization, From: OSC Slides
+w07-170419-21-LR-About: Synchronization, From: OSC Slides
+w07-170421-20-PS-Task week07
+w07-170421-20-PS-Task week07
+w07-170421-21-PS-Task week07
+w07-170421-21-PS-Task week07
+w07-170422-11-PS-Task week07
+w07-170422-12-PS-Task week07
+w07-170422-12-PS-Task week07
+w07-170422-13-PS-Task week07
+w07-170422-13-PS-Task week07
